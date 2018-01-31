@@ -2,7 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5743b7ed-fb0d-4a35-a81e-562fc9c11fa7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BHS/test.py" afterPath="$PROJECT_DIR$/BHS/test.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/乡村田野  沂蒙山风景  乡下菜园 山村 乡村 乡下  田园  大豆 秋收 特产图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/云雾群山图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/内蒙地区随拍图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/内蒙马路上的夕阳图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/双月湾沙滩海边图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/古镇上的小茶坊图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/吉他图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/呼伦贝尔图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/坝上草原图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/夏日自然风景图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/夕阳下的田野图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/大海图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/天空下的圣塞巴斯蒂安图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/实名认证.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/待出售的点心图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/木板上草莓对角线拍摄图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/树枝图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/桌子上的时光图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/武夷山酒店美食下午茶图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/水库图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/水稻图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/泰国旅行图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/泰国美功铁道市场Maeklong Railway图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/泰国酒店游泳池图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/泰国餐馆饭店图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/津旗码头图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/洱海清晨的彩霞倒映水中图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/田园的麦子图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/田园风光图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/田间的花茶图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/电子营业执照.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/百香果图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/秋天麦田的风景图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/秋收的麦田图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/稻田守望人图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/红酒特写图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/缆车图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/羊卓雍湖图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/美丽的大草原图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/老酒 酒坛子图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/芋乡图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/草原风车图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/草原风车夕阳里的童话世界图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/莲雾图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/街道图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/西湖风光图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/远山图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/钱塘江风光图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/银河图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/阳光下晒竹笋图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/露天餐厅冰镇鸡尾酒图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/风光摄影图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/风光照图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/风景小屋图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/风车图片下载.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/鸡尾酒图片下载.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +68,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pppp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/pppp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="76">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
@@ -26,8 +82,8 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BHS/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            <state relative-caret-position="38">
+              <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -55,8 +111,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="391" />
-    <option name="y" value="7" />
+    <option name="x" value="175" />
+    <option name="y" value="16" />
     <option name="width" value="1528" />
     <option name="height" value="883" />
   </component>
@@ -101,7 +157,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../auto_test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -158,26 +214,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="391" y="7" width="1528" height="883" extended-state="0" />
-    <editor active="true" />
+    <frame x="175" y="16" width="1528" height="883" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901555" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901555" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -191,7 +246,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/pppp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="152">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
@@ -199,8 +254,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BHS/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
+        <state relative-caret-position="38">
           <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/pppp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BHS/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
           <folding />
         </state>
       </provider>
