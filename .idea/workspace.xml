@@ -2,63 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5743b7ed-fb0d-4a35-a81e-562fc9c11fa7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/乡村田野  沂蒙山风景  乡下菜园 山村 乡村 乡下  田园  大豆 秋收 特产图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/云雾群山图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/内蒙地区随拍图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/内蒙马路上的夕阳图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/双月湾沙滩海边图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/古镇上的小茶坊图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/吉他图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/呼伦贝尔图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/坝上草原图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/夏日自然风景图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/夕阳下的田野图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/大海图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/天空下的圣塞巴斯蒂安图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/实名认证.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/待出售的点心图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/木板上草莓对角线拍摄图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/树枝图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/桌子上的时光图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/武夷山酒店美食下午茶图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/水库图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/水稻图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/泰国旅行图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/泰国美功铁道市场Maeklong Railway图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/泰国酒店游泳池图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/泰国餐馆饭店图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/津旗码头图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/洱海清晨的彩霞倒映水中图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/田园的麦子图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/田园风光图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/田间的花茶图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/电子营业执照.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/百香果图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/秋天麦田的风景图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/秋收的麦田图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/稻田守望人图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/红酒特写图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/缆车图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/羊卓雍湖图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/美丽的大草原图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/老酒 酒坛子图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/芋乡图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/草原风车图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/草原风车夕阳里的童话世界图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/莲雾图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/街道图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/西湖风光图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/远山图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/钱塘江风光图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/银河图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/阳光下晒竹笋图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/露天餐厅冰镇鸡尾酒图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/风光摄影图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/风光照图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/风景小屋图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/风车图片下载.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/jpg/鸡尾酒图片下载.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myuint/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myuint/unitkuaidi.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/login_test.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/pppp.py" afterPath="$PROJECT_DIR$/test/pppp.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/pachong_baidu.py" afterPath="$PROJECT_DIR$/test/dingdanpachong.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,19 +21,107 @@
       <file leaf-file-name="pppp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/pppp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="338">
+              <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dingdanpachong.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/dingdanpachong.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding>
+                <element signature="e#20#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="unitkuaidi.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myuint/unitkuaidi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kuaididan.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/kuaididan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="47" selection-end-column="19" />
+              <folding>
+                <element signature="e#21#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jenkins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/jenkins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-103">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BHS/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
+            <state relative-caret-position="52">
               <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BHS/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myuint/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="baidu_pacing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/baidu_pacing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+              <folding>
+                <element signature="e#21#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,23 +135,31 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>title</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/pppp.py" />
         <option value="$PROJECT_DIR$/test/BHS/test.py" />
         <option value="$PROJECT_DIR$/BHS/test.py" />
+        <option value="$PROJECT_DIR$/test/pppp.py" />
+        <option value="$PROJECT_DIR$/test/dingdanpachong.py" />
+        <option value="$PROJECT_DIR$/test/kuaididan.py" />
+        <option value="$PROJECT_DIR$/myuint/unitkuaidi.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="175" />
-    <option name="y" value="16" />
-    <option name="width" value="1528" />
-    <option name="height" value="883" />
+    <option name="x" value="737" />
+    <option name="y" value="159" />
+    <option name="width" value="1415" />
+    <option name="height" value="870" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -131,6 +176,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,21 +193,35 @@
             <path>
               <item name="interface_auto" type="b2602c69:ProjectViewProjectNode" />
               <item name="interface_auto" type="462c0819:PsiDirectoryNode" />
+              <item name="myuint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interface_auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interface_auto" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="interface_auto" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="interface_auto" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\interface_auto\myuint" />
+      <recent name="D:\github\interface_auto\BHS" />
       <recent name="D:\github\interface_auto" />
     </key>
   </component>
@@ -176,7 +237,55 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.dingdanpachong">
+    <configuration name="Unittests in unitkuaidi.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myuint" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="interface_auto" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/myuint/unitkuaidi.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="dingdanpachong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="interface_auto" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/dingdanpachong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="pppp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="interface_auto" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/pppp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,14 +303,45 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="unitkuaidi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myuint" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="interface_auto" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myuint/unitkuaidi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.pppp" />
+      <item index="2" class="java.lang.String" itemvalue="Python.dingdanpachong" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in unitkuaidi.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python.unitkuaidi" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.dingdanpachong" />
+        <item index="1" class="java.lang.String" itemvalue="Python.unitkuaidi" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in unitkuaidi.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pppp" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\27576\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -213,15 +353,24 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_unitkuaidi_py - 2018.02.01 at 16h 25m 13s.xml">
+      <configuration name="Unittests in unitkuaidi.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unitkuaidi_py - 2018.02.01 at 16h 25m 17s.xml">
+      <configuration name="Unittests in unitkuaidi.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="175" y="16" width="1528" height="883" extended-state="0" />
+    <frame x="737" y="159" width="1415" height="870" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13295211" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901555" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -246,6 +395,32 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/pppp.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BHS/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/baidu_pacing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#21#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/pppp.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
@@ -260,21 +435,116 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/baidu_pacing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <element signature="e#21#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/jenkins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/login_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-609">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/pppp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="338">
+          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BHS/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="52">
           <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BHS/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myuint/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/kuaididan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="47" selection-end-column="19" />
+          <folding>
+            <element signature="e#21#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/dingdanpachong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#20#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myuint/unitkuaidi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

@@ -12,7 +12,7 @@ print('time1:',time.strftime("%Y%m%d%H%M%S",time.localtime()))
 url = 'https://movie.douban.com/ '
 res = requests.get(url,verify=False)
 soup = BeautifulSoup(res.content,'lxml')
-titles = soup.find_all('li',class_='title')
+titles = soup.find_all(class_='title')
 rating = list(soup.find_all('span',class_='subject-rate'))
 for title in titles:
     siblings = list(title.next_siblings)
@@ -26,5 +26,5 @@ for title in titles:
             elif span['class'][0] == 'text-tip':
                 print('电影名称：%s，评分：%s' % (title.a.string, span.string))
         except TypeError as msg:
-            pass
+            print 1
 print('time2:',time.strftime("%Y%m%d%H%M%S",time.localtime()))
