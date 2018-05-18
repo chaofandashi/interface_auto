@@ -25,6 +25,6 @@ d={
 }
 
 r=requests.post(url,headers=headers,data=d)
-print r.content
+print (r.content)
 
 
