@@ -53,7 +53,7 @@ class Log():
         self.__printconsole('error', message)
 if __name__ == "__main__":
     log = Log()
-    st="马叔叔是猪"
+    st="猪"
     a=st.encode("unicode")
     log.info(a)
     log.info("__________end____________")
